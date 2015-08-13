@@ -1,4 +1,4 @@
 # Hello-World
 Training on GitHub
 William (Ike) Eichorn, AVP Consulting for Pactera
-Charlotte, NC
+6100 Fairview Rd, Charlotte, NC 28105
